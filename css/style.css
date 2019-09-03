@@ -1,0 +1,20 @@
+html{
+    font-family: 'Chilanka', cursive;
+    font-size: 18px;
+}
+
+body{
+    font-family: 'Chilanka', cursive;
+    background-image: linear-gradient(to bottom right, orange , red);
+}
+
+.navbar-brand{
+    font-family: 'Pacifico', cursive;
+    font-size: 20px;
+}
+
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
